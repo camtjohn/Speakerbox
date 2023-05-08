@@ -4,3 +4,5 @@ Smart Speaker powered by Raspberry Pi written in Python. Hardware includes a mid
 Python files include PyQt code. Located in "main" folder.
 
 Images designed in InkSpace are used for custom graphical user interface. Located in "button_graphics"
+
+Wiring pi used for interfacing GPIO
